@@ -55,5 +55,9 @@ body {
     }
   }
   
+  .container1{
+      background-attachment: fixed;
+      background-color: black;
+  }
   
   
