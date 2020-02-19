@@ -60,4 +60,10 @@ body {
       background-color: black;
   }
   
+  ul.a {
+    list-style-type: circle;
+  }
+  ul.b {
+    list-style-type: square;
+  }
   
